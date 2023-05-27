@@ -17,3 +17,4 @@ effectiveness of these web technologies in building a user-friendly and function
 blogging application. The "Blog Application" project serves as a valuable example for 
 future developers interested in exploring the capabilities of web technologies in the 
 context of blog management systems.
+
